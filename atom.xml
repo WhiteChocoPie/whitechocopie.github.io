@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>白巧的小博客🍓️</title>
+  
+  
+  <link href="https://blog.chocopie.moe/atom.xml" rel="self"/>
+  
+  <link href="https://blog.chocopie.moe/"/>
+  <updated>2021-01-24T16:12:49.892Z</updated>
+  <id>https://blog.chocopie.moe/</id>
+  
+  <author>
+    <name>WhiteChocoPie🍓️</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.chocopie.moe/archives/hello-world/"/>
+    <id>https://blog.chocopie.moe/archives/hello-world/</id>
+    <published>2021-01-22T15:39:45.756Z</published>
+    <updated>2021-01-24T16:12:49.892Z</updated>
+    
+    <content type="html"><![CDATA[<p>是第一篇文章耶w</p><h2 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h2><p>大家好，这里是白巧派w，是住在草莓星球的高中生草莓🍓️<br>名字取自麦当劳的「草莓白巧派」，这也是白巧派最喜欢吃的食物呢<br>平平无奇，没有什么闪光点，也不知道介绍写什么了呢qaq<br>那就这样吧w</p><h2 id="在哪里可以找到我"><a href="#在哪里可以找到我" class="headerlink" title="在哪里可以找到我"></a>在哪里可以找到我</h2><p>Twitter: <a href="https://twitter.com/whitechoco_pie">@whitechoco_pie</a><br>Mastodon: <a href="https://o3o.ca/@whitechocopie">@whitechocopie@o3o.ca</a><br>GitHub: <a href="https://github.com/WhiteChocoPie">WhiteChocoPie</a><br>Telegram: <a href="https://t.me/whitechocopie">@WhiteChocoPie</a><br>E-Mail: <a href="mailto:white@chocopie.moe">white@chocopie.moe</a></p><h2 id="OpenPGP-Key"><a href="#OpenPGP-Key" class="headerlink" title="OpenPGP Key"></a>OpenPGP Key</h2><p>Fingerprint: <code>354C 4E8B 5F8E 1B67 155A 6694 B6C6 58B3 7400 3FEF</code><br>主用的Key Server是<code>hkps://keys.openpgp.org</code></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;是第一篇文章耶w&lt;/p&gt;
+&lt;h2 id=&quot;自我介绍&quot;&gt;&lt;a href=&quot;#自我介绍&quot; class=&quot;headerlink&quot; title=&quot;自我介绍&quot;&gt;&lt;/a&gt;自我介绍&lt;/h2&gt;&lt;p&gt;大家好，这里是白巧派w，是住在草莓星球的高中生草莓🍓️&lt;br&gt;名字取自麦当劳的「草莓白巧派</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
