@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.chocopie.moe/links/index.html</loc>
+    
+    <lastmod>2021-03-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.chocopie.moe/archives/%E5%86%AC%E6%97%A5%E5%85%89%E6%99%AF/</loc>
     
     <lastmod>2021-01-30</lastmod>
@@ -15,17 +22,10 @@
     
   </url>
   
-  <url>
-    <loc>https://blog.chocopie.moe/links/index.html</loc>
-    
-    <lastmod>2021-01-25</lastmod>
-    
-  </url>
-  
 
   <url>
     <loc>https://blog.chocopie.moe/</loc>
-    <lastmod>2021-01-30</lastmod>
+    <lastmod>2021-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -33,7 +33,7 @@
   
   <url>
     <loc>https://blog.chocopie.moe/tags/%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2021-01-30</lastmod>
+    <lastmod>2021-03-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
